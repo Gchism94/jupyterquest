@@ -6,7 +6,7 @@
 | Testing | [![GitHub Workflow test status badge](https://img.shields.io/github/actions/workflow/status/Gchism94/jupyterquest/python-tests.yml?logo=github&logoColor=white)](https://github.com/Gchism94/jupyterquest/actions/workflows/autograder.yml) [![Codecov test coverage percentage badge](https://img.shields.io/codecov/c/github/Gchism94/jupyterquest?logo=codecov&logoColor=white)](https://codecov.io/gh/Gchism94/jupyterquest)|
 | Meta | [![License badge](https://img.shields.io/badge/License-MIT-yellow?logo=opensourceinitiative&logoColor=white)](https://github.com/Gchism94/jupyterquest/blob/main/LICENSE) [![PyPI version badge](https://img.shields.io/pypi/v/jupyterquest?logo=python&logoColor=white&color=orange)](https://test.pypi.org/project/jupyterquest/) [![DOI](https://zenodo.org/badge/749177138.svg)](https://zenodo.org/doi/10.5281/zenodo.10784348)
 
-
+**JupyterQuest will soon include features from CortexAI [REPO](https://github.com/AI-Tutor-Cortex-AI/ai-tutor)**
 
 ## Overview
 **jupyterquest** is a comprehensive autograding tool designed to elevate the standard of Jupyter Notebook (.ipynb) submissions. Seamlessly integrated with GitHub Actions, it provides an automated evaluation process that spans across code style, structure, commit history, security vulnerabilities, and dependency checks. This tool is invaluable for educators, mentors, and development teams aiming to uphold best practices in code quality, security, and project organization.
